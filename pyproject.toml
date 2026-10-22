@@ -1,0 +1,23 @@
+[project]
+name = "helm-hierarchy"
+version = "0.1.0"
+description = "HELM: infer a rooted hierarchy from a graph with learned edge scores and a minimum spanning arborescence."
+requires-python = ">=3.11"
+license = "GPL-3.0-or-later"
+dynamic = ["dependencies"]
+
+[project.optional-dependencies]
+gnn = ["torch>=2.0", "torch-geometric>=2.3"]
+
+[project.scripts]
+helm = "helm.cli:main"
+
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["helm", "helm.scoring", "helm.arborescence"]
+
+[tool.setuptools.dynamic]
+dependencies = { file = ["requirements.txt"] }

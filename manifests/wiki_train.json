@@ -1,0 +1,62 @@
+[
+  {
+    "graph_id": "Graph theory",
+    "collection": "wiki",
+    "G_path": "data/wiki/Graph theory/G.edgelist",
+    "T_path": "data/wiki/Graph theory/T.edgelist"
+  },
+  {
+    "graph_id": "Linear algebra",
+    "collection": "wiki",
+    "G_path": "data/wiki/Linear algebra/G.edgelist",
+    "T_path": "data/wiki/Linear algebra/T.edgelist"
+  },
+  {
+    "graph_id": "Calculus",
+    "collection": "wiki",
+    "G_path": "data/wiki/Calculus/G.edgelist",
+    "T_path": "data/wiki/Calculus/T.edgelist"
+  },
+  {
+    "graph_id": "Topology",
+    "collection": "wiki",
+    "G_path": "data/wiki/Topology/G.edgelist",
+    "T_path": "data/wiki/Topology/T.edgelist"
+  },
+  {
+    "graph_id": "Electronics",
+    "collection": "wiki",
+    "G_path": "data/wiki/Electronics/G.edgelist",
+    "T_path": "data/wiki/Electronics/T.edgelist"
+  },
+  {
+    "graph_id": "Neuroscience",
+    "collection": "wiki",
+    "G_path": "data/wiki/Neuroscience/G.edgelist",
+    "T_path": "data/wiki/Neuroscience/T.edgelist"
+  },
+  {
+    "graph_id": "Biochemistry",
+    "collection": "wiki",
+    "G_path": "data/wiki/Biochemistry/G.edgelist",
+    "T_path": "data/wiki/Biochemistry/T.edgelist"
+  },
+  {
+    "graph_id": "Philosophy",
+    "collection": "wiki",
+    "G_path": "data/wiki/Philosophy/G.edgelist",
+    "T_path": "data/wiki/Philosophy/T.edgelist"
+  },
+  {
+    "graph_id": "Robotics",
+    "collection": "wiki",
+    "G_path": "data/wiki/Robotics/G.edgelist",
+    "T_path": "data/wiki/Robotics/T.edgelist"
+  },
+  {
+    "graph_id": "Probability theory",
+    "collection": "wiki",
+    "G_path": "data/wiki/Probability theory/G.edgelist",
+    "T_path": "data/wiki/Probability theory/T.edgelist"
+  }
+]

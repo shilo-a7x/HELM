@@ -1,0 +1,41 @@
+[project]
+name = "graphfx"
+version = "0.1.0"
+description = "Slim node/edge graph-feature pipeline: NetworkX/nx-cugraph backends plus a subprocess boundary to graph-measures for motif3/motif4."
+requires-python = ">=3.13,<3.14"
+dependencies = [
+    "networkx>=3.6",
+    "pandas>=2.2",
+    "numpy>=2.0",
+    "scipy>=1.14",
+    "springrank>=0.0.10",
+]
+
+[project.optional-dependencies]
+gpu = [
+    "nx-cugraph-cu12",
+    "cugraph-cu12",
+]
+leiden-cpu = [
+    "leidenalg",
+    "python-igraph",
+]
+
+[project.scripts]
+graphfx = "graphfx.cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[[tool.uv.index]]
+name = "nvidia"
+url = "https://pypi.nvidia.com"
+explicit = true
+
+[tool.uv.sources]
+cugraph-cu12 = { index = "nvidia" }
+nx-cugraph-cu12 = { index = "nvidia" }
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/graphfx"]

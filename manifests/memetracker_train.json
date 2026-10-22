@@ -1,0 +1,62 @@
+[
+  {
+    "graph_id": "cascade_00154",
+    "collection": "memetracker",
+    "G_path": "data/memetracker/cascade_00154/G.edgelist",
+    "T_path": "data/memetracker/cascade_00154/T.edgelist"
+  },
+  {
+    "graph_id": "cascade_01130",
+    "collection": "memetracker",
+    "G_path": "data/memetracker/cascade_01130/G.edgelist",
+    "T_path": "data/memetracker/cascade_01130/T.edgelist"
+  },
+  {
+    "graph_id": "cascade_01160",
+    "collection": "memetracker",
+    "G_path": "data/memetracker/cascade_01160/G.edgelist",
+    "T_path": "data/memetracker/cascade_01160/T.edgelist"
+  },
+  {
+    "graph_id": "cascade_00768",
+    "collection": "memetracker",
+    "G_path": "data/memetracker/cascade_00768/G.edgelist",
+    "T_path": "data/memetracker/cascade_00768/T.edgelist"
+  },
+  {
+    "graph_id": "cascade_01135",
+    "collection": "memetracker",
+    "G_path": "data/memetracker/cascade_01135/G.edgelist",
+    "T_path": "data/memetracker/cascade_01135/T.edgelist"
+  },
+  {
+    "graph_id": "cascade_00626",
+    "collection": "memetracker",
+    "G_path": "data/memetracker/cascade_00626/G.edgelist",
+    "T_path": "data/memetracker/cascade_00626/T.edgelist"
+  },
+  {
+    "graph_id": "cascade_00484",
+    "collection": "memetracker",
+    "G_path": "data/memetracker/cascade_00484/G.edgelist",
+    "T_path": "data/memetracker/cascade_00484/T.edgelist"
+  },
+  {
+    "graph_id": "cascade_02780",
+    "collection": "memetracker",
+    "G_path": "data/memetracker/cascade_02780/G.edgelist",
+    "T_path": "data/memetracker/cascade_02780/T.edgelist"
+  },
+  {
+    "graph_id": "cascade_00735",
+    "collection": "memetracker",
+    "G_path": "data/memetracker/cascade_00735/G.edgelist",
+    "T_path": "data/memetracker/cascade_00735/T.edgelist"
+  },
+  {
+    "graph_id": "cascade_01339",
+    "collection": "memetracker",
+    "G_path": "data/memetracker/cascade_01339/G.edgelist",
+    "T_path": "data/memetracker/cascade_01339/T.edgelist"
+  }
+]

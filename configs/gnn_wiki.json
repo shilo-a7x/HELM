@@ -1,0 +1,8 @@
+{
+    "hidden_dim": 128,
+    "num_layers": 3,
+    "dropout_rate": 0.5026527397171671,
+    "edge_dropout_rate": 0.2519684207567234,
+    "learning_rate": 0.00039458318763998775,
+    "weight_decay": 0.00013750134475784374
+}

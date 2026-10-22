@@ -1,0 +1,62 @@
+[
+  {
+    "graph_id": "C0018",
+    "collection": "microbiome",
+    "G_path": "data/microbiome/C0018/G.edgelist",
+    "T_path": "data/microbiome/C0018/T.edgelist"
+  },
+  {
+    "graph_id": "C0019",
+    "collection": "microbiome",
+    "G_path": "data/microbiome/C0019/G.edgelist",
+    "T_path": "data/microbiome/C0019/T.edgelist"
+  },
+  {
+    "graph_id": "C0020",
+    "collection": "microbiome",
+    "G_path": "data/microbiome/C0020/G.edgelist",
+    "T_path": "data/microbiome/C0020/T.edgelist"
+  },
+  {
+    "graph_id": "C0021",
+    "collection": "microbiome",
+    "G_path": "data/microbiome/C0021/G.edgelist",
+    "T_path": "data/microbiome/C0021/T.edgelist"
+  },
+  {
+    "graph_id": "C0023",
+    "collection": "microbiome",
+    "G_path": "data/microbiome/C0023/G.edgelist",
+    "T_path": "data/microbiome/C0023/T.edgelist"
+  },
+  {
+    "graph_id": "P0011",
+    "collection": "microbiome",
+    "G_path": "data/microbiome/P0011/G.edgelist",
+    "T_path": "data/microbiome/P0011/T.edgelist"
+  },
+  {
+    "graph_id": "P0012",
+    "collection": "microbiome",
+    "G_path": "data/microbiome/P0012/G.edgelist",
+    "T_path": "data/microbiome/P0012/T.edgelist"
+  },
+  {
+    "graph_id": "P0014",
+    "collection": "microbiome",
+    "G_path": "data/microbiome/P0014/G.edgelist",
+    "T_path": "data/microbiome/P0014/T.edgelist"
+  },
+  {
+    "graph_id": "P0015",
+    "collection": "microbiome",
+    "G_path": "data/microbiome/P0015/G.edgelist",
+    "T_path": "data/microbiome/P0015/T.edgelist"
+  },
+  {
+    "graph_id": "P0016",
+    "collection": "microbiome",
+    "G_path": "data/microbiome/P0016/G.edgelist",
+    "T_path": "data/microbiome/P0016/T.edgelist"
+  }
+]

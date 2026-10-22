@@ -1,0 +1,62 @@
+[
+  {
+    "graph_id": "Algorithms",
+    "collection": "wiki",
+    "G_path": "data/wiki/Algorithms/G.edgelist",
+    "T_path": "data/wiki/Algorithms/T.edgelist"
+  },
+  {
+    "graph_id": "Artificial intelligence",
+    "collection": "wiki",
+    "G_path": "data/wiki/Artificial intelligence/G.edgelist",
+    "T_path": "data/wiki/Artificial intelligence/T.edgelist"
+  },
+  {
+    "graph_id": "Complex numbers",
+    "collection": "wiki",
+    "G_path": "data/wiki/Complex numbers/G.edgelist",
+    "T_path": "data/wiki/Complex numbers/T.edgelist"
+  },
+  {
+    "graph_id": "Computer graphics",
+    "collection": "wiki",
+    "G_path": "data/wiki/Computer graphics/G.edgelist",
+    "T_path": "data/wiki/Computer graphics/T.edgelist"
+  },
+  {
+    "graph_id": "Control theory",
+    "collection": "wiki",
+    "G_path": "data/wiki/Control theory/G.edgelist",
+    "T_path": "data/wiki/Control theory/T.edgelist"
+  },
+  {
+    "graph_id": "Cryptography",
+    "collection": "wiki",
+    "G_path": "data/wiki/Cryptography/G.edgelist",
+    "T_path": "data/wiki/Cryptography/T.edgelist"
+  },
+  {
+    "graph_id": "Machine learning",
+    "collection": "wiki",
+    "G_path": "data/wiki/Machine learning/G.edgelist",
+    "T_path": "data/wiki/Machine learning/T.edgelist"
+  },
+  {
+    "graph_id": "Economics",
+    "collection": "wiki",
+    "G_path": "data/wiki/Economics/G.edgelist",
+    "T_path": "data/wiki/Economics/T.edgelist"
+  },
+  {
+    "graph_id": "Genetics",
+    "collection": "wiki",
+    "G_path": "data/wiki/Genetics/G.edgelist",
+    "T_path": "data/wiki/Genetics/T.edgelist"
+  },
+  {
+    "graph_id": "History of science",
+    "collection": "wiki",
+    "G_path": "data/wiki/History of science/G.edgelist",
+    "T_path": "data/wiki/History of science/T.edgelist"
+  }
+]

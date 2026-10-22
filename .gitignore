@@ -1,0 +1,13 @@
+*.egg-info/
+graphfx/.venv/
+/graph-measures/
+.ipynb_checkpoints/
+*.log
+/.miniconda3/
+/.motif-build.log
+/.motif-env/
+outputs*/
+__pycache__/
+*.py[cod]
+runs/
+.venv/

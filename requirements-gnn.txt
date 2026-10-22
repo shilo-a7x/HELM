@@ -1,0 +1,6 @@
+# Optional GNN scorer (helm/scoring/gnn.py), installed on top of the core environment.
+# scripts/setup.sh --with-gnn installs it, picking the CPU or CUDA build of torch.
+# Plain wheels only: GINEConv and dropout_edge run on torch's native scatter ops.
+# Tested with torch 2.14.1 and torch-geometric 2.8.1.
+torch>=2.0
+torch-geometric>=2.3
